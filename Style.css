@@ -5,7 +5,7 @@ body {
     background: rgb(14,18,41);
     color: white;
     word-wrap: break-word;
-    background: linear-gradient(90deg rgb(14,18,41), black);
+    background: rgb(14,18,41)
 }
 a:link {
     color: red;
